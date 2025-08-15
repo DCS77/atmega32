@@ -1,0 +1,8 @@
+blink-schematics-backups/
+
+*.kicad_prl
+fp-info-cache
+
+blink-schematics.kicad_pcb
+
+*.zip
